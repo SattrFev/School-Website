@@ -1,2 +1,2 @@
-# School-Website
+## School-Website 🏫
 school assignment 😴
